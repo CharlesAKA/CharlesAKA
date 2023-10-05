@@ -1,7 +1,7 @@
 <h1>Hey there, It's Charles! <br/><a href="https://github.com/CharlesAKA/CharlesAKA">Programmer</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Built My Own SOC](https://github.com/CharlesAKA/Building-an-SOC/blob/main/README.md#built-my-own-soc)
 
 <h2>📃 Certifications:</h2>
 
