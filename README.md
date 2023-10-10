@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Built My Own SOC](https://github.com/CharlesAKA/Building-an-SOC/blob/main/README.md#built-my-own-soc)
+  - [Basic Home Lab](https://github.com/CharlesAKA/BasicHomeLab)
 
 <h2>📃 Certifications:</h2>
 
