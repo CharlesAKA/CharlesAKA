@@ -25,4 +25,5 @@
 <br />
 
 ⚡ Fun fact: I am currently learning how to play the saxaphone
+<br />
 ✍🏿 Currenlty working on the Google Cybersecurity Certificate: Course 5: Sound the Alarm: Detection and Response
