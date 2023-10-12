@@ -3,6 +3,7 @@
 
   - [Built My Own SOC](https://github.com/CharlesAKA/Building-an-SOC/blob/main/README.md#built-my-own-soc)
   - [Basic Home Lab](https://github.com/CharlesAKA/BasicHomeLab)
+  - [Azure Sentinel SIEM](https://github.com/CharlesAKA/AzureSentinelSIEM)
 
 <h2>📃 Certifications:</h2>
 
