@@ -14,7 +14,25 @@
   - [AI and Big Data in IoT](https://olympus.mygreatlearning.com/courses/62479/certificate)
   - [Introduction to IoT](https://www.credly.com/badges/0a974b5a-ae5a-4696-88e7-960479560860)
   - [Introduction to Cybersecurity](https://www.credly.com/badges/0bf49253-fb10-4308-8d34-e7e53e47e245)
-    
+
+<h2> Google Cybersecurity Portfolio work</h2>
+
+  -[Conduct a security audit]
+  -[Incident Report -Network Traffic Analysis]
+  -[Incident Report - Apply OS hardening techniques]
+  -[Applu filters to SQL Queries]
+  -[File permissions in Linux]
+  -[Create Hash values]
+  -[Decript an Encrypted message]
+  -[Vulnerability assessment report]
+  -[PASTA The Process for Attack Simulation and Threat Analysis Worksheet]
+  -[Analyze packets using Wireshark]
+  -[Capture and filtre packets in Linux]
+  -[Incident Report]
+  -[Examine alerts, logs, and rules with Suricata]
+  -[Using Chronicle's domain search]
+  -[Using Splunk Cloud to perform an investigation]
+  
 [<img align="left" alt="CharlesAKA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CharlesAKA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
