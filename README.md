@@ -15,7 +15,7 @@
   - [Introduction to IoT](https://www.credly.com/badges/0a974b5a-ae5a-4696-88e7-960479560860)
   - [Introduction to Cybersecurity](https://www.credly.com/badges/0bf49253-fb10-4308-8d34-e7e53e47e245)
 
-<h2> Google Cybersecurity Portfolio work</h2>
+<h2> Google Cybersecurity Portfolio work:</h2>
 
   - [Conduct a security audit]()
   - [Incident Report -Network Traffic Analysis]()
