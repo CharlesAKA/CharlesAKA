@@ -18,7 +18,7 @@
 <h2> Google Cybersecurity Portfolio work:</h2>
 
   - [Conduct a security audit](https://github.com/CharlesAKA/Security-Audit/blob/main/README.md)
-  - [Incident Report -Network Traffic Analysis]()
+  - [Incident Report -Network Traffic Analysis](https://github.com/CharlesAKA/Incident-Report-Network-Traffic-Analysis/blob/main/README.md)
   - [Incident Report - Apply OS hardening techniques]()
   - [Applu filters to SQL Queries]()
   - [File permissions in Linux]()
